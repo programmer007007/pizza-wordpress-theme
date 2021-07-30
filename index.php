@@ -1,5 +1,5 @@
 <?php
-
+//demo
 use Stringy\Stringy as S;
 
 get_header();
