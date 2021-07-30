@@ -1,0 +1,9 @@
+{
+    "name": "andrew/pizzatheme",
+    "description": "Pizza Wordpress Theme",
+    "type": "project",
+    "require": {
+        "voku/stringy": "^6.4"
+    },
+    "license": "Single License"
+}

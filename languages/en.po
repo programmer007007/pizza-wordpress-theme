@@ -1,0 +1,1565 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme\n"
+"POT-Creation-Date: 2021-06-21 19:05+0530\n"
+"PO-Revision-Date: 2021-06-21 19:07+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin-mng.php:5
+msgid "WP Pizza Theme Options Page"
+msgstr ""
+
+#: admin/admin-mng.php:6
+msgid "Pizza Theme Setting"
+msgstr ""
+
+#: admin/forms/basic.php:109 admin/forms/basic.php:139
+#: admin/forms/homepage.php:21 admin/forms/shop-img.php:35
+#: admin/forms/sliders.php:47
+msgid "Upload image"
+msgstr ""
+
+#: admin/forms/homepage.php:56 admin/forms/homepage.php:69
+#: admin/forms/homepage.php:113 admin/forms/service.php:15
+#: admin/forms/shop-img.php:16 admin/forms/sliders.php:16
+#: framework/functions/localization.php:18
+msgid "Enable"
+msgstr ""
+
+#: admin/forms/homepage.php:59 admin/forms/homepage.php:72
+#: admin/forms/homepage.php:116 admin/forms/service.php:18
+#: admin/forms/shop-img.php:19 admin/forms/sliders.php:19
+msgid "Disabled"
+msgstr ""
+
+#: category.php:17
+msgid "Articles On "
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+#: framework/class-tgm-plugin-activation.php:912
+#: framework/class-tgm-plugin-activation.php:2618
+#: framework/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:394
+#: framework/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:395
+#: framework/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: framework/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+#: framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1206
+#: framework/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: framework/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: framework/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2634
+#: framework/functions/localization.php:86
+#: framework/functions/localization.php:148
+#: framework/functions/localization.php:191
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2639
+#: framework/functions/localization.php:153
+#: framework/functions/localization.php:192
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+#: framework/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+#: framework/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/functions/ajax_handler.php:22
+msgid "Added to cart successfully!"
+msgstr ""
+
+#: framework/functions/localization.php:12
+msgid "Currency"
+msgstr ""
+
+#: framework/functions/localization.php:13
+msgid "Select Currency"
+msgstr ""
+
+#: framework/functions/localization.php:14
+msgid "Choose Currency"
+msgstr ""
+
+#: framework/functions/localization.php:15
+msgid "Favorite"
+msgstr ""
+
+#: framework/functions/localization.php:16
+msgid "Photos"
+msgstr ""
+
+#: framework/functions/localization.php:17
+msgid "Disable"
+msgstr ""
+
+#: framework/functions/localization.php:19
+msgid "Any"
+msgstr ""
+
+#: framework/functions/localization.php:20
+msgid "None"
+msgstr ""
+
+#: framework/functions/localization.php:21
+msgid "by"
+msgstr ""
+
+#: framework/functions/localization.php:22
+#: framework/functions/localization.php:62
+msgid "at"
+msgstr ""
+
+#: framework/functions/localization.php:23
+msgid "Go to Dashboard"
+msgstr ""
+
+#: framework/functions/localization.php:24
+msgid "Read More"
+msgstr ""
+
+#: framework/functions/localization.php:25
+msgid "Continue reading"
+msgstr ""
+
+#: framework/functions/localization.php:26
+#: framework/functions/localization.php:85
+msgid "Follow us"
+msgstr ""
+
+#: framework/functions/localization.php:27
+msgid "Property"
+msgstr ""
+
+#: framework/functions/localization.php:28
+msgid "Properties"
+msgstr ""
+
+#: framework/functions/localization.php:29
+msgid "Enter keyword..."
+msgstr ""
+
+#: framework/functions/localization.php:30
+msgid "Search City, State or Area"
+msgstr ""
+
+#: framework/functions/localization.php:31
+msgid "Enter an address, town, street, zip or property ID"
+msgstr ""
+
+#: framework/functions/localization.php:32
+msgid "Enter a Location"
+msgstr ""
+
+#: framework/functions/localization.php:33
+msgid "All Countries"
+msgstr ""
+
+#: framework/functions/localization.php:34
+msgid "All States"
+msgstr ""
+
+#: framework/functions/localization.php:35
+#: framework/functions/localization.php:171
+msgid "All Cities"
+msgstr ""
+
+#: framework/functions/localization.php:36
+msgid "All Areas"
+msgstr ""
+
+#: framework/functions/localization.php:37
+msgid "Area Size"
+msgstr ""
+
+#: framework/functions/localization.php:38
+msgid "All Status"
+msgstr ""
+
+#: framework/functions/localization.php:39
+msgid "All Types"
+msgstr ""
+
+#: framework/functions/localization.php:40
+msgid "All Labels"
+msgstr ""
+
+#: framework/functions/localization.php:41
+#: framework/functions/localization.php:93
+msgid "Property ID"
+msgstr ""
+
+#: framework/functions/localization.php:42
+msgid "Beds"
+msgstr ""
+
+#: framework/functions/localization.php:43
+msgid "Baths"
+msgstr ""
+
+#: framework/functions/localization.php:44
+#: framework/functions/localization.php:177
+msgid "Bedrooms"
+msgstr ""
+
+#: framework/functions/localization.php:45
+#: framework/functions/localization.php:178
+msgid "Bathrooms"
+msgstr ""
+
+#: framework/functions/localization.php:46
+msgid "Min.Bedrooms"
+msgstr ""
+
+#: framework/functions/localization.php:47
+msgid "Min Area"
+msgstr ""
+
+#: framework/functions/localization.php:48
+msgid "Max Area"
+msgstr ""
+
+#: framework/functions/localization.php:49
+msgid "Min Price"
+msgstr ""
+
+#: framework/functions/localization.php:50
+msgid "Max Price"
+msgstr ""
+
+#: framework/functions/localization.php:51
+msgid "Available from"
+msgstr ""
+
+#: framework/functions/localization.php:52
+msgid "Price Range:"
+msgstr ""
+
+#: framework/functions/localization.php:53
+msgid "From"
+msgstr ""
+
+#: framework/functions/localization.php:54
+msgid "to"
+msgstr ""
+
+#: framework/functions/localization.php:55
+msgid "Other Features"
+msgstr ""
+
+#: framework/functions/localization.php:56
+msgid "More Options"
+msgstr ""
+
+#: framework/functions/localization.php:57
+msgid "Go"
+msgstr ""
+
+#: framework/functions/localization.php:58
+#: framework/functions/localization.php:77
+msgid "Search"
+msgstr ""
+
+#: framework/functions/localization.php:59
+msgid "Advanced"
+msgstr ""
+
+#: framework/functions/localization.php:60
+msgid "Advanced Search"
+msgstr ""
+
+#: framework/functions/localization.php:61
+msgid "Back to Homepage"
+msgstr ""
+
+#: framework/functions/localization.php:63
+msgid "OFFICE:"
+msgstr ""
+
+#: framework/functions/localization.php:64
+msgid "MOBILE:"
+msgstr ""
+
+#: framework/functions/localization.php:65
+msgid "FAX:"
+msgstr ""
+
+#: framework/functions/localization.php:66
+msgid "License:"
+msgstr ""
+
+#: framework/functions/localization.php:67
+msgid "Tax Number:"
+msgstr ""
+
+#: framework/functions/localization.php:68
+msgid "Language:"
+msgstr ""
+
+#: framework/functions/localization.php:69
+msgid "Agents:"
+msgstr ""
+
+#: framework/functions/localization.php:70
+msgid "Properties listed:"
+msgstr ""
+
+#: framework/functions/localization.php:71
+#: framework/functions/localization.php:84
+#: framework/functions/localization.php:165
+msgid "Email:"
+msgstr ""
+
+#: framework/functions/localization.php:72
+msgid "Website:"
+msgstr ""
+
+#: framework/functions/localization.php:73
+#: framework/functions/localization.php:114
+msgid "Submit"
+msgstr ""
+
+#: framework/functions/localization.php:74
+msgid "Join The Discussion"
+msgstr ""
+
+#: framework/functions/localization.php:75
+msgid "Your Name"
+msgstr ""
+
+#: framework/functions/localization.php:76
+msgid "Your Email"
+msgstr ""
+
+#: framework/functions/localization.php:78
+#: framework/functions/localization.php:79
+msgid "Featured"
+msgstr ""
+
+#: framework/functions/localization.php:80
+msgid "View My Properties"
+msgstr ""
+
+#: framework/functions/localization.php:81
+msgid "office:"
+msgstr ""
+
+#: framework/functions/localization.php:82
+msgid "mobile:"
+msgstr ""
+
+#: framework/functions/localization.php:83
+msgid "fax:"
+msgstr ""
+
+#: framework/functions/localization.php:87
+msgid "Address"
+msgstr ""
+
+#: framework/functions/localization.php:88
+#: framework/functions/localization.php:126
+msgid "City"
+msgstr ""
+
+#: framework/functions/localization.php:89
+msgid "State/County"
+msgstr ""
+
+#: framework/functions/localization.php:90
+msgid "Zip/Post Code"
+msgstr ""
+
+#: framework/functions/localization.php:91
+msgid "Country"
+msgstr ""
+
+#: framework/functions/localization.php:92
+#: framework/functions/localization.php:179
+msgid "Property Size"
+msgstr ""
+
+#: framework/functions/localization.php:94
+msgid "Garage"
+msgstr ""
+
+#: framework/functions/localization.php:95
+msgid "Garage Size"
+msgstr ""
+
+#: framework/functions/localization.php:96
+msgid "Year Built"
+msgstr ""
+
+#: framework/functions/localization.php:97
+msgid "Time Period"
+msgstr ""
+
+#: framework/functions/localization.php:98
+msgid "Unlimited Listings"
+msgstr ""
+
+#: framework/functions/localization.php:99
+msgid "Featured Listings"
+msgstr ""
+
+#: framework/functions/localization.php:100
+msgid "Tax"
+msgstr ""
+
+#: framework/functions/localization.php:101
+msgid "Get Started"
+msgstr ""
+
+#: framework/functions/localization.php:102
+msgid "Save this Search?"
+msgstr ""
+
+#: framework/functions/localization.php:103
+msgid "Sort by:"
+msgstr ""
+
+#: framework/functions/localization.php:104
+msgid "Default Order"
+msgstr ""
+
+#: framework/functions/localization.php:105
+msgid "Price (Low to High)"
+msgstr ""
+
+#: framework/functions/localization.php:106
+msgid "Price (High to Low)"
+msgstr ""
+
+#: framework/functions/localization.php:107
+msgid "Date Old to New"
+msgstr ""
+
+#: framework/functions/localization.php:108
+msgid "Date New to Old"
+msgstr ""
+
+#: framework/functions/localization.php:109
+msgid "Direct Bank Transfer"
+msgstr ""
+
+#: framework/functions/localization.php:110
+msgid "Order Number"
+msgstr ""
+
+#: framework/functions/localization.php:111
+msgid "Payment Method"
+msgstr ""
+
+#: framework/functions/localization.php:112
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Date"
+msgstr ""
+
+#: framework/functions/localization.php:113
+#: woocommerce/myaccount/my-orders.php:17
+msgid "Total"
+msgstr ""
+
+#: framework/functions/localization.php:115
+msgid "Search Listing"
+msgstr ""
+
+#: framework/functions/localization.php:116
+msgid "All"
+msgstr ""
+
+#: framework/functions/localization.php:117
+msgid "Published"
+msgstr ""
+
+#: framework/functions/localization.php:118
+msgid "Pending"
+msgstr ""
+
+#: framework/functions/localization.php:119
+msgid "Expired"
+msgstr ""
+
+#: framework/functions/localization.php:120
+msgid "Draft"
+msgstr ""
+
+#: framework/functions/localization.php:121
+msgid "View All Results"
+msgstr ""
+
+#: framework/functions/localization.php:122
+msgid "Listings found"
+msgstr ""
+
+#: framework/functions/localization.php:123
+msgid "We didn’t find any results"
+msgstr ""
+
+#: framework/functions/localization.php:124
+msgid "View Listing"
+msgstr ""
+
+#: framework/functions/localization.php:125
+#: framework/functions/localization.php:149
+msgid "Listing"
+msgstr ""
+
+#: framework/functions/localization.php:127
+msgid "Area"
+msgstr ""
+
+#: framework/functions/localization.php:128
+msgid "State"
+msgstr ""
+
+#: framework/functions/localization.php:131
+msgid "Floor Plans for"
+msgstr ""
+
+#: framework/functions/localization.php:132
+msgid "Floor Plans"
+msgstr ""
+
+#: framework/functions/localization.php:133
+msgid "Plan Title"
+msgstr ""
+
+#: framework/functions/localization.php:134
+msgid "Plan Bedrooms"
+msgstr ""
+
+#: framework/functions/localization.php:135
+msgid "Plan Bathrooms"
+msgstr ""
+
+#: framework/functions/localization.php:136
+msgid "Plan Price"
+msgstr ""
+
+#: framework/functions/localization.php:137
+msgid "Plan Postfix"
+msgstr ""
+
+#: framework/functions/localization.php:138
+msgid "Plan Size"
+msgstr ""
+
+#: framework/functions/localization.php:139
+msgid "Plan Image"
+msgstr ""
+
+#: framework/functions/localization.php:140
+msgid "Plan Description"
+msgstr ""
+
+#: framework/functions/localization.php:141
+msgid "Upload"
+msgstr ""
+
+#: framework/functions/localization.php:142
+msgid "Add More"
+msgstr ""
+
+#: framework/functions/localization.php:144
+msgid "Search Invoices"
+msgstr ""
+
+#: framework/functions/localization.php:145
+msgid "Total Invoices:"
+msgstr ""
+
+#: framework/functions/localization.php:146
+msgid "Start date"
+msgstr ""
+
+#: framework/functions/localization.php:147
+msgid "End date"
+msgstr ""
+
+#: framework/functions/localization.php:150
+msgid "Package"
+msgstr ""
+
+#: framework/functions/localization.php:151
+msgid "Listing with Featured"
+msgstr ""
+
+#: framework/functions/localization.php:152
+msgid "Upgrade to Featured"
+msgstr ""
+
+#: framework/functions/localization.php:154
+msgid "Paid"
+msgstr ""
+
+#: framework/functions/localization.php:155
+msgid "Not Paid"
+msgstr ""
+
+#: framework/functions/localization.php:156
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Order"
+msgstr ""
+
+#: framework/functions/localization.php:157
+msgid "View Details"
+msgstr ""
+
+#: framework/functions/localization.php:158
+msgid "Payment details"
+msgstr ""
+
+#: framework/functions/localization.php:159
+#: framework/functions/localization.php:188
+msgid "Property Title"
+msgstr ""
+
+#: framework/functions/localization.php:160
+msgid "Billing Type"
+msgstr ""
+
+#: framework/functions/localization.php:161
+msgid "Billing For"
+msgstr ""
+
+#: framework/functions/localization.php:162
+msgid "Total Price:"
+msgstr ""
+
+#: framework/functions/localization.php:163
+msgid "Customer details:"
+msgstr ""
+
+#: framework/functions/localization.php:164
+msgid "Name:"
+msgstr ""
+
+#: framework/functions/localization.php:166
+msgid "Enter agency name"
+msgstr ""
+
+#: framework/functions/localization.php:167
+msgid "Enter agent name"
+msgstr ""
+
+#: framework/functions/localization.php:168
+msgid "Search Agent"
+msgstr ""
+
+#: framework/functions/localization.php:169
+msgid "Search Agency"
+msgstr ""
+
+#: framework/functions/localization.php:170
+msgid "All Categories"
+msgstr ""
+
+#: framework/functions/localization.php:174
+msgid "Multi Units / Sub Properties for"
+msgstr ""
+
+#: framework/functions/localization.php:175
+msgid "Multi Units / Sub Properties"
+msgstr ""
+
+#: framework/functions/localization.php:176
+msgid "Title"
+msgstr ""
+
+#: framework/functions/localization.php:180
+msgid "Size Postfix"
+msgstr ""
+
+#: framework/functions/localization.php:181
+msgid "Price"
+msgstr ""
+
+#: framework/functions/localization.php:182
+msgid "Price Postfix"
+msgstr ""
+
+#: framework/functions/localization.php:183
+msgid "Property Type"
+msgstr ""
+
+#: framework/functions/localization.php:184
+msgid "Availability Date"
+msgstr ""
+
+#: framework/functions/localization.php:187
+msgid "Property description and price"
+msgstr ""
+
+#: framework/functions/localization.php:189
+msgid "Enter your property title"
+msgstr ""
+
+#: framework/functions/localization.php:190
+msgid "Description"
+msgstr ""
+
+#: framework/functions/localization.php:193
+msgid "Label"
+msgstr ""
+
+#: framework/functions/localization.php:194
+msgid "Sale or Rent Price"
+msgstr ""
+
+#: framework/functions/localization.php:195
+msgid "Enter Sale or Rent Price"
+msgstr ""
+
+#: framework/functions/localization.php:196
+msgid "Second Price (Optional)"
+msgstr ""
+
+#: framework/functions/localization.php:197
+msgid "Enter your property second price"
+msgstr ""
+
+#: framework/functions/localization.php:198
+msgid "After Price Label (ex: monthly)"
+msgstr ""
+
+#: framework/functions/localization.php:199
+msgid "Price Prefix (ex: Start from)"
+msgstr ""
+
+#: framework/functions/localization.php:200
+msgid "Enter before price label"
+msgstr ""
+
+#: framework/functions/localization.php:201
+msgid "Enter after price label"
+msgstr ""
+
+#: framework/functions/localization.php:204
+#: framework/functions/localization.php:205
+msgid "Contact Information"
+msgstr ""
+
+#: framework/functions/localization.php:206
+#: framework/functions/localization.php:207
+msgid "What information do you want to display in agent data container?"
+msgstr ""
+
+#: framework/functions/localization.php:208
+msgid "Author Data."
+msgstr ""
+
+#: framework/functions/localization.php:209
+msgid "Agency Data."
+msgstr ""
+
+#: framework/functions/localization.php:210
+msgid "Agent Data (Choose agent from the list below)"
+msgstr ""
+
+#: framework/functions/localization.php:211
+msgid "Do not display"
+msgstr ""
+
+#: framework/functions/localization.php:214
+msgid "You don't have any saved search"
+msgstr ""
+
+#: framework/functions/localization.php:215
+msgid "You don't have any properties yet!"
+msgstr ""
+
+#: framework/functions/localization.php:216
+msgid "You don't have any favorite properties yet!"
+msgstr ""
+
+#: framework/functions/localization.php:217
+msgid "This email address is already registered"
+msgstr ""
+
+#: framework/functions/localization.php:218
+msgid "Invalid email address."
+msgstr ""
+
+#: framework/functions/localization.php:219
+msgid "Please install and theme plugin"
+msgstr ""
+
+#: framework/functions/localization.php:231
+msgid "View Profile"
+msgstr ""
+
+#: framework/functions/localization.php:236 woocommerce/myaccount/orders.php:93
+msgid "Next"
+msgstr ""
+
+#: framework/functions/localization.php:237
+msgid "Prev"
+msgstr ""
+
+#: framework/functions/localization.php:247
+msgid "General"
+msgstr ""
+
+#: functions.php:56
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/register-scripts.php:97
+msgid "Transportation"
+msgstr ""
+
+#: inc/register-scripts.php:131
+msgid "Blog SideBar #1"
+msgstr ""
+
+#: inc/register-scripts.php:133
+msgid "Widgets in this area will be displayed in the blog single page."
+msgstr ""
+
+#: inc/register-scripts.php:136
+msgid "Shop SideBar #1"
+msgstr ""
+
+#: inc/register-scripts.php:138
+msgid "Widgets in this area will be displayed in the shop page."
+msgstr ""
+
+#: index.php:10
+msgid "Hello prince"
+msgstr ""
+
+#: sidebar-blog.php:3
+msgid "Links"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/global/form-login.php:34
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:38 woocommerce/myaccount/form-login.php:51
+#: woocommerce/myaccount/form-login.php:110
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:47 woocommerce/myaccount/form-login.php:61
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:51 woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:54 woocommerce/myaccount/form-login.php:68
+msgid "Lost your password?"
+msgstr ""
+
+#. translators: 1: user display name 2: logout url
+#: woocommerce/myaccount/dashboard.php:35
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#. translators: 1: Orders URL 2: Address URL 3: Account URL.
+#: woocommerce/myaccount/dashboard.php:45
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a href="
+"\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#. translators: 1: Orders URL 2: Addresses URL 3: Account URL.
+#: woocommerce/myaccount/dashboard.php:48
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:54
+#: woocommerce/myaccount/payment-methods.php:77
+msgid "Add payment method"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:60
+msgid ""
+"New payment methods can only be added during checkout. Please contact us if "
+"you require assistance."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:28
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:45
+#: woocommerce/myaccount/form-edit-account.php:47
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:50
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+#: woocommerce/myaccount/form-edit-account.php:57
+#: woocommerce/myaccount/form-login.php:101
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:63
+msgid "Password change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:66
+#: woocommerce/myaccount/form-edit-account.php:68
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:73
+#: woocommerce/myaccount/form-edit-account.php:75
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:80
+#: woocommerce/myaccount/form-edit-account.php:81
+msgid "Confirm new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:93
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:42
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:65
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:81
+#: woocommerce/myaccount/form-login.php:129
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:91
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:118
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:25
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:28
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:32
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:45
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:20
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:25
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:66
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:66
+msgid "Add"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:37
+msgid "Recent orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:63 woocommerce/myaccount/orders.php:49
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/my-orders.php:75 woocommerce/myaccount/orders.php:61
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:89
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:100
+msgid "Browse products"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:101
+msgid "No order has been made yet."
+msgstr ""
+
+#. translators: 1: credit card type 2: last 4 digits
+#: woocommerce/myaccount/payment-methods.php:49
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:70
+msgid "No saved methods found."
+msgstr ""
+
+#. translators: 1: order number 2: order date 3: order status
+#: woocommerce/myaccount/view-order.php:28
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:37
+msgid "Order updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:43
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WordpressForests"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.wordpressforests.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blogs List"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Checkout"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "MyAccount"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Simple"
+msgstr ""
