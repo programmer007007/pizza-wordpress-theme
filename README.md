@@ -1,7 +1,10 @@
 # pizza-wordpress-theme
 Simple Pizza Wordpress Theme
-I build this in my free time, simple wp theme for pizza sellers. Feel free to use it.
-<a target="_blank" href="https://paypal.me/Prince898"><img src="https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png"/></a>
+I build this in my free time, simple wp theme for pizza sellers with woocommerce support build in. Also with easy customization of shown text displayed on the site. 
+Feel free to use it.
+<br><br>
+<a style="width:100px;" target="_blank" href="https://paypal.me/Prince898"><img  src="https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png"/></a>
+<br><br>
 <br>
 <img src="http://i.prntscr.com/mnzdpSvHSiGU5xVxUKqGjA.png"/>
 <br>
